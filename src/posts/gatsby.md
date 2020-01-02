@@ -1,5 +1,5 @@
 ---
-title: Mükemmel gatsby projem,
+title: Mükemmel gatsby projem
 date: 2019/12/31
 ---
 

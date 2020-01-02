@@ -1,5 +1,5 @@
 ---
-title: falan filan inter milan,
+title: falan filan inter milan
 date: 2019/12/31
 ---
 
