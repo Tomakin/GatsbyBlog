@@ -1,1 +1,1 @@
-My insane Blog
+My Insane Blog
